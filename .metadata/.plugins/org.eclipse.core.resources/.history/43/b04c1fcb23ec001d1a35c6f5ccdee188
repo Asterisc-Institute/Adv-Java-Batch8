@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<form action="">
+Uname : <input type="text" name="uname">
+Upass : <input type="text" name="upass">
+<input type="submit" value="Go">
+</form>
+
+
+</body>
+</html>
