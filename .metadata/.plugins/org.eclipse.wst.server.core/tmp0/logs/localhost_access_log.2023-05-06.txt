@@ -1,0 +1,13 @@
+127.0.0.1 - - [06/May/2023:21:02:26 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [06/May/2023:21:02:26 +0530] "GET /Jsp-Day01/index.html HTTP/1.1" 200 142
+0:0:0:0:0:0:0:1 - - [06/May/2023:21:02:55 +0530] "GET /Jsp-Day01/index.html HTTP/1.1" 200 142
+0:0:0:0:0:0:0:1 - - [06/May/2023:21:04:05 +0530] "GET /Jsp-Day01/home.jsp HTTP/1.1" 200 285
+0:0:0:0:0:0:0:1 - - [06/May/2023:21:04:43 +0530] "GET /Jsp-Day01/home.jsp HTTP/1.1" 200 290
+0:0:0:0:0:0:0:1 - - [06/May/2023:21:07:09 +0530] "GET /Jsp-Day01/index.html HTTP/1.1" 200 308
+0:0:0:0:0:0:0:1 - - [06/May/2023:21:07:18 +0530] "GET /Jsp-Day01/home.jsp?uname=ram&upass=abc HTTP/1.1" 200 290
+0:0:0:0:0:0:0:1 - - [06/May/2023:21:13:01 +0530] "GET /Jsp-Day01/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [06/May/2023:21:13:10 +0530] "GET /Jsp-Day01/home.jsp?uname=geeta&upass=abc HTTP/1.1" 200 325
+0:0:0:0:0:0:0:1 - - [06/May/2023:21:13:30 +0530] "GET /Jsp-Day01/home.jsp?uname=geeta&upass=abc HTTP/1.1" 200 330
+0:0:0:0:0:0:0:1 - - [06/May/2023:21:14:03 +0530] "GET /Jsp-Day01/home.jsp?uname=geeta&upass=abc HTTP/1.1" 200 341
+0:0:0:0:0:0:0:1 - - [06/May/2023:21:16:46 +0530] "GET /Jsp-Day01/home.jsp?uname=geeta&upass=abc HTTP/1.1" 200 363
+0:0:0:0:0:0:0:1 - - [06/May/2023:21:22:21 +0530] "GET /Jsp-Day01/home.jsp?uname=geeta&upass=abc HTTP/1.1" 200 390
