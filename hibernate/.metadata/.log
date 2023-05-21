@@ -1067,3 +1067,51 @@ java.lang.NullPointerException
 
 !ENTRY com.android.ide.eclipse.adt 2 0 2023-05-19 17:54:09.981
 !MESSAGE No projects found for [E:\jsp\hibernate\HB-Day02\src\hibernate.cfg.xml]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2023-05-21 15:22:47.023
+!MESSAGE No valid Android XML Editor Delegate found for file /Test/src/employee.hbm.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2023-05-21 15:23:13.349
+!MESSAGE No projects found for [E:\jsp\hibernate\Test\src\employee.hbm.xml]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2023-05-21 15:24:20.029
+!MESSAGE No valid Android XML Editor Delegate found for file /Test/src/hibernate.cfg.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2023-05-21 15:24:39.820
+!MESSAGE No projects found for [E:\jsp\hibernate\Test\src\hibernate.cfg.xml]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2023-05-21 15:25:11.349
+!MESSAGE No projects found for [E:\jsp\hibernate\Test\src\hibernate.cfg.xml]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2023-05-21 15:25:39.059
+!MESSAGE No valid Android XML Editor Delegate found for file /HB-Day02/src/hibernate.cfg.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2023-05-21 15:25:49.249
+!MESSAGE No projects found for [E:\jsp\hibernate\Test\src\hibernate.cfg.xml]
+
+!ENTRY org.eclipse.jface.text 2 0 2023-05-21 15:28:27.399
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2023-05-21 15:28:27.404
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2023-05-21 15:32:34.335
+!MESSAGE No valid Android XML Editor Delegate found for file /HB-Day03/src/hibernate.cfg.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2023-05-21 15:40:46.280
+!MESSAGE No valid Android XML Editor Delegate found for file /HB-Day03/src/hibernate.cfg.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2023-05-21 15:58:10.081
+!MESSAGE No valid Android XML Editor Delegate found for file /HB-Day04/src/main/java/hibernate.cfg.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2023-05-21 15:58:30.701
+!MESSAGE No projects found for [E:\jsp\hibernate\HB-Day04\src\main\java\hibernate.cfg.xml]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2023-05-21 16:02:45.423
+!MESSAGE The POM for org.hibernate:hibernate-core:jar:5.8.1.Final is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2023-05-21 16:04:13.811
+!MESSAGE The POM for org.hibernate:hibernate-core:jar:5.8.1.Final is missing, no dependency information available
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2023-05-21 16:04:41.111
+!MESSAGE No valid Android XML Editor Delegate found for file /HB-Day04/src/main/java/hibernate.cfg.xml [Res null, type null]

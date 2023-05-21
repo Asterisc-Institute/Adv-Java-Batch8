@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="MyServ">
+<input type="text" name="uname"><br/><br/>
+<input type="text" name="uaddress"><br/><br/> 
+<input type="text" name="uemail"><br/><br/>
+<input type="submit" value="Go"><br/><br/>
+</form>
+
+
+</body>
+</html>
