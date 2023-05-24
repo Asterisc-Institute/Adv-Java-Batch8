@@ -18,3 +18,162 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:520) ~[na:na]
 	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
 	... 8 common frames omitted
+2023-05-21 15:48:48,804 [Worker-68] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\jsp\hibernate\HB-Day04\pom.xml
+2023-05-21 15:48:49,657 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: asterisc.in:HB-Day04:0.0.1-SNAPSHOT @ E:\jsp\hibernate\HB-Day04\pom.xml.
+2023-05-21 15:48:50,185 [Worker-68] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HB-Day04/src/main/java
+2023-05-21 15:48:50,185 [Worker-68] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HB-Day04/src/test/java
+2023-05-21 15:48:50,241 [Worker-68] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2023-05-21 15:48:50,520 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:48:50,520 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:48:50,520 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:48:50,520 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:50:08,792 [Worker-78] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: asterisc.in:HB-Day04:0.0.1-SNAPSHOT @ E:\jsp\hibernate\HB-Day04\pom.xml.
+2023-05-21 15:50:09,001 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:50:09,001 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:50:09,006 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:50:09,006 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:51:37,541 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: asterisc.in:HB-Day04:0.0.1-SNAPSHOT @ E:\jsp\hibernate\HB-Day04\pom.xml.
+2023-05-21 15:51:37,642 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:51:37,642 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:51:37,642 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:51:37,642 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:51:38,810 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:51:38,810 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:51:38,810 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:51:38,810 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:51:54,781 [Worker-84] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: asterisc.in:HB-Day04:0.0.1-SNAPSHOT @ E:\jsp\hibernate\HB-Day04\pom.xml.
+2023-05-21 15:51:54,850 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:51:54,850 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:51:54,850 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:51:54,850 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:51:56,001 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:51:56,001 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:51:56,001 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:51:56,001 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:52:03,927 [Worker-86] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: asterisc.in:HB-Day04:0.0.1-SNAPSHOT @ E:\jsp\hibernate\HB-Day04\pom.xml.
+2023-05-21 15:52:04,000 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:52:04,000 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:52:04,005 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:52:04,005 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:52:05,160 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:52:05,160 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:52:05,160 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:52:05,160 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:56:00,781 [Worker-85] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: asterisc.in:HB-Day04:0.0.1-SNAPSHOT @ E:\jsp\hibernate\HB-Day04\pom.xml.
+2023-05-21 15:56:00,941 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:56:00,941 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:56:00,941 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:56:00,941 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:56:02,565 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:56:02,565 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:56:02,565 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:56:02,565 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:56:26,131 [Worker-91] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: asterisc.in:HB-Day04:0.0.1-SNAPSHOT @ E:\jsp\hibernate\HB-Day04\pom.xml.
+2023-05-21 15:56:26,195 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:56:26,195 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:56:26,195 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:56:26,195 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:56:27,351 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:56:27,351 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:56:27,351 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:56:27,356 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:56:29,571 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: asterisc.in:HB-Day04:0.0.1-SNAPSHOT @ E:\jsp\hibernate\HB-Day04\pom.xml.
+2023-05-21 15:56:29,666 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:56:29,666 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:56:29,671 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:56:29,671 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:56:31,141 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:56:31,141 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:56:31,141 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:56:31,141 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:56:58,711 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:56:58,711 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:56:58,711 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:56:58,711 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:57:18,151 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:57:18,151 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:57:18,151 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:57:18,151 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:57:48,393 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:57:48,393 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:57:48,394 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:57:48,394 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:57:57,947 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:57:57,951 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:57:57,951 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:57:57,951 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:58:04,761 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:58:04,761 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:58:04,761 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:58:04,761 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:58:30,811 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:58:30,811 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:58:30,821 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:58:30,821 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:59:11,445 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:59:11,445 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:59:11,445 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:59:11,445 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:59:26,651 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:59:26,651 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:59:26,651 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:59:26,651 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:59:44,951 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:59:44,951 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:59:44,951 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:59:44,951 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 15:59:53,321 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:59:53,321 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 15:59:53,321 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 15:59:53,321 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 16:02:45,105 [Worker-93] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: asterisc.in:HB-Day04:0.0.1-SNAPSHOT @ E:\jsp\hibernate\HB-Day04\pom.xml.
+2023-05-21 16:02:45,423 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.8.1.Final/hibernate-core-5.8.1.Final.pom
+2023-05-21 16:02:45,423 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate-core:jar:5.8.1.Final is missing, no dependency information available
+2023-05-21 16:02:45,532 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.8.1.Final/hibernate-core-5.8.1.Final.jar
+2023-05-21 16:02:45,592 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 16:02:45,592 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 16:02:45,592 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 16:02:45,592 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 16:03:12,131 [Worker-90] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.5.8.Final/hibernate-core-5.5.8.Final.pom
+2023-05-21 16:03:12,280 [Worker-90] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.5.8.Final/hibernate-core-5.5.8.Final.pom
+2023-05-21 16:03:12,351 [Worker-94] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: asterisc.in:HB-Day04:0.0.1-SNAPSHOT @ E:\jsp\hibernate\HB-Day04\pom.xml.
+2023-05-21 16:03:12,419 [Worker-90] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.5.8.Final/hibernate-core-5.5.8.Final.jar
+2023-05-21 16:03:12,498 [Worker-94] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.5.8.Final/hibernate-core-5.5.8.Final.jar
+2023-05-21 16:03:14,411 [Worker-90] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.5.8.Final/hibernate-core-5.5.8.Final.jar
+2023-05-21 16:03:15,937 [Worker-94] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.5.8.Final/hibernate-core-5.5.8.Final.jar
+2023-05-21 16:03:16,208 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 16:03:16,208 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 16:03:16,208 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 16:03:16,208 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 16:03:16,502 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 16:03:16,502 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 16:03:16,502 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 16:03:16,502 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 16:03:35,661 [Worker-87] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: asterisc.in:HB-Day04:0.0.1-SNAPSHOT @ E:\jsp\hibernate\HB-Day04\pom.xml.
+2023-05-21 16:03:35,755 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 16:03:35,762 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 16:03:35,762 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 16:03:35,762 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 16:03:37,271 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 16:03:37,277 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 16:03:37,277 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 16:03:37,277 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 16:04:13,811 [Worker-94] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: asterisc.in:HB-Day04:0.0.1-SNAPSHOT @ E:\jsp\hibernate\HB-Day04\pom.xml.
+2023-05-21 16:04:13,811 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate-core:jar:5.8.1.Final is missing, no dependency information available
+2023-05-21 16:04:13,885 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 16:04:13,885 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 16:04:13,885 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 16:04:13,885 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 16:04:32,452 [Worker-93] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: asterisc.in:HB-Day04:0.0.1-SNAPSHOT @ E:\jsp\hibernate\HB-Day04\pom.xml.
+2023-05-21 16:04:32,542 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 16:04:32,542 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 16:04:32,547 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 16:04:32,547 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-21 16:04:34,092 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 16:04:34,092 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-21 16:04:34,092 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-21 16:04:34,092 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources
+2023-05-23 20:57:36,201 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 20:57:36,234 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\main\resources
+2023-05-23 20:57:36,235 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 20:57:36,236 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\jsp\hibernate\HB-Day04\src\test\resources

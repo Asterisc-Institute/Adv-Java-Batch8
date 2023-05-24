@@ -1,0 +1,10 @@
+127.0.0.1 - - [24/May/2023:16:30:34 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [24/May/2023:16:30:34 +0530] "GET /HB-Day05/ HTTP/1.1" 200 345
+0:0:0:0:0:0:0:1 - - [24/May/2023:16:30:35 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [24/May/2023:16:31:07 +0530] "GET /HB-Day05/serv?uname=ram&uaddress=nagpur&uemail=ram%40gmail.com HTTP/1.1" 200 15
+0:0:0:0:0:0:0:1 - - [24/May/2023:16:31:24 +0530] "GET /HB-Day05/serv?uname=ram1&uaddress=pune&uemail=ram1%40gmail.com HTTP/1.1" 200 15
+0:0:0:0:0:0:0:1 - - [24/May/2023:16:31:32 +0530] "GET /HB-Day05/serv?uname=ram2&uaddress=pune2&uemail=ram2%40gmail.com HTTP/1.1" 200 15
+0:0:0:0:0:0:0:1 - - [24/May/2023:16:31:42 +0530] "GET /HB-Day05/serv?uname=geeta&uaddress=nagpur&uemail=ram2%40gmail.com HTTP/1.1" 200 15
+0:0:0:0:0:0:0:1 - - [24/May/2023:16:31:50 +0530] "GET /HB-Day05/serv?uname=om&uaddress=pune&uemail=ram2%40gmail.com HTTP/1.1" 200 15
+0:0:0:0:0:0:0:1 - - [24/May/2023:16:32:02 +0530] "GET /HB-Day05/serv?uname=yash&uaddress=nagpur&uemail=ram2%40gmail.com HTTP/1.1" 200 15
+0:0:0:0:0:0:0:1 - - [24/May/2023:16:32:08 +0530] "GET /HB-Day05/serv?uname=yash2&uaddress=pune&uemail=ram2%40gmail.com HTTP/1.1" 200 15

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MyServ.java&apos; to &apos;HB-Day05/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;HB-Day05&apos;&#x0D;&#x0A;- Destination element: &apos;HB-Day05/src/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;MyServ.java&apos;" description="Copy compilation unit" destination="/src&lt;" element1="/src&lt;{MyServ.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1684926181363" units="1" version="1.0"/>
+</session>
