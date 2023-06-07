@@ -10,7 +10,9 @@
 <fullyQualifiedTypeName name="org.hibernate.annotations.Columns"/>
 <fullyQualifiedTypeName name="javax.persistence.Column"/>
 <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
-<fullyQualifiedTypeName name="model.Employee"/>
 <fullyQualifiedTypeName name="java.io.PrintWriter"/>
 <fullyQualifiedTypeName name="asterisc.in.HB_Day04.model.Employee"/>
+<fullyQualifiedTypeName name="org.hibernate.query.Query"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="model.Employee"/>
 </qualifiedTypeNameHistroy>

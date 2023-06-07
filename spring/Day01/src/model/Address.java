@@ -1,0 +1,39 @@
+package model;
+
+public class Address {
+
+	private int plot;
+	private String city;
+	private int pin;
+	
+	
+	public Address() {
+		super();
+	}
+	
+	public Address(int plot) {
+		super();
+		this.plot = plot;
+	}
+	public Address(int plot, String city) {
+		super();
+		this.plot = plot;
+		this.city = city;
+	}
+	public Address(int plot, String city, int pin) {
+		super();
+		this.plot = plot;
+		this.city = city;
+		this.pin = pin;
+	}
+
+	@Override
+	public String toString() {
+		return "Address [plot=" + plot + ", city=" + city + ", pin=" + pin + "]";
+	}
+	
+	
+	
+	
+	
+}

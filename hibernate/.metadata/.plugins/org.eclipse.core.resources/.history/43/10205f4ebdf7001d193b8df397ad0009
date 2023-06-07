@@ -1,8 +1,0 @@
-
-public class Employee {
-
-	private int roll;
-	private String name;
-	private String address;
-	
-}

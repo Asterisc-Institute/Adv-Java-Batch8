@@ -1,0 +1,13 @@
+package model;
+
+public class Address {
+
+	private int plot;
+	private String city;
+	private int pin;
+	
+	
+	
+	
+	
+}
